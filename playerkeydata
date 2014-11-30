@@ -1,0 +1,631 @@
+Szczesny,34,54,Arsenal,Goalkeeper,7.57535885167
+Koscielny,20,59,Arsenal,Defender,0.396531100478
+Vermaelen,0,50,Arsenal,Defender,0.058971291866
+Gibbs,29,53,Arsenal,Defender,2.98923444976
+Jenkinson,23,50,West Ham,Defender,0.275598086124
+Mertesacker,31,60,Arsenal,Defender,7.4533492823
+Monreal,26,49,Arsenal,Defender,2.33851674641
+Hayden,0,43,Arsenal,Defender,0.0
+Bellern,2,44,Arsenal,Defender,0.00813397129187
+Wilshere,22,64,Arsenal,Midfielder,0.244019138756
+Walcott,2,90,Arsenal,Midfielder,0.154545454545
+Ramsey,35,87,Arsenal,Midfielder,0.439234449761
+Rosicky,3,48,Arsenal,Midfielder,0.146411483254
+Arteta,19,53,Arsenal,Midfielder,0.231818181818
+Oxlade-Chamberlain,30,64,Arsenal,Midfielder,2.0538277512
+Cazorla,22,81,Arsenal,Midfielder,4.4976076555
+Diaby,0,47,Arsenal,Midfielder,0.00203349282297
+Gnabry,0,48,Arsenal,Midfielder,0.058971291866
+Zelalem,0,47,Arsenal,Midfielder,0.0
+Flamini,18,49,Arsenal,Midfielder,1.70813397129
+zil,25,89,Arsenal,Midfielder,0.380263157895
+Miyaichi,0,45,Arsenal,Midfielder,0.00203349282297
+Snchez,81,109,Arsenal,Midfielder,3.29425837321
+Podolski,4,72,Arsenal,Forward,0.201315789474
+Giroud,10,81,Arsenal,Forward,0.420933014354
+Sanogo,8,47,Arsenal,Forward,0.0488038277512
+Akpom,0,48,Arsenal,Forward,0.00203349282297
+Campbell,2,50,Arsenal,Forward,0.00813397129187
+Given,0,40,Aston Villa,Goalkeeper,0.0
+Guzan,41,46,Aston Villa,Goalkeeper,7.46875
+Baker,19,44,Aston Villa,Defender,0.213815789474
+Clark,9,43,Aston Villa,Defender,0.158223684211
+Lowton,7,43,Aston Villa,Defender,0.121875
+Vlaar,25,45,Aston Villa,Defender,1.30361842105
+Bennett,0,45,Aston Villa,Defender,0.0299342105263
+Okore,1,43,Aston Villa,Defender,0.0128289473684
+Luna,0,45,Aston Villa,Defender,0.104769736842
+Donacien,0,39,Aston Villa,Defender,0.0
+Senderos,22,45,Aston Villa,Defender,0.1625
+Delph,17,49,Aston Villa,Midfielder,1.28009868421
+N'Zogbia,28,53,Aston Villa,Midfielder,0.119736842105
+Gardner,0,43,Aston Villa,Midfielder,0.0
+El Ahmadi,0,44,Aston Villa,Midfielder,0.147532894737
+Westwood,25,48,Aston Villa,Midfielder,6.20723684211
+Bacuna,3,50,Aston Villa,Midfielder,0.235197368421
+Tonev,0,45,Aston Villa,Midfielder,0.0513157894737
+Carruthers,0,45,Aston Villa,Midfielder,0.0
+Johnson,0,44,Aston Villa,Midfielder,0.0
+Grealish,4,44,Aston Villa,Midfielder,0.0192434210526
+Cole,2,53,Aston Villa,Midfielder,0.100493421053
+Richardson,24,50,Aston Villa,Midfielder,0.301480263158
+Agbonlahor,38,52,Aston Villa,Forward,4.69901315789
+Weimann,39,53,Aston Villa,Forward,4.93421052632
+Benteke,4,79,Aston Villa,Forward,0.237335526316
+Kozk,0,59,Aston Villa,Forward,0.0898026315789
+Robinson,0,43,Aston Villa,Forward,0.00855263157895
+Bent,7,47,Aston Villa,Forward,0.158223684211
+Heaton,42,45,Burnley,Goalkeeper,1.50717703349
+Gilks,0,40,Burnley,Goalkeeper,0.0
+Duff,35,42,Burnley,Defender,1.25598086124
+Shackell,34,45,Burnley,Defender,1.22009569378
+Long,0,39,Burnley,Defender,0.0
+Lafferty,0,39,Burnley,Defender,0.0
+Mee,22,45,Burnley,Defender,0.789473684211
+Trippier,41,48,Burnley,Defender,1.47129186603
+Marney,17,44,Burnley,Midfielder,0.061004784689
+Jones,24,45,Burnley,Midfielder,0.861244019139
+Wallace,10,44,Burnley,Midfielder,0.0358851674641
+Arfield,30,50,Burnley,Midfielder,1.07655502392
+Kightly,19,47,Burnley,Midfielder,0.0681818181818
+Taylor,10,48,Burnley,Midfielder,0.105861244019
+Reid,3,43,Burnley,Midfielder,0.0592105263158
+Ings,30,57,Burnley,Forward,1.07655502392
+Vokes,0,54,Burnley,Forward,0.0
+Barnes,18,44,Burnley,Forward,0.0645933014354
+Sordell,9,48,Burnley,Forward,0.0322966507177
+Cech,6,56,Chelsea,Goalkeeper,0.642583732057
+Courtois,39,60,Chelsea,Goalkeeper,3.17224880383
+Cahill,44,64,Chelsea,Defender,10.5574162679
+Terry,36,63,Chelsea,Defender,12.9234449761
+Ivanovic,54,72,Chelsea,Defender,13.8588516746
+Azpilicueta,38,60,Chelsea,Defender,8.52392344498
+Ak,0,43,Chelsea,Defender,0.00406698564593
+Bertrand,68,56,Southampton,Defender,5.51016746411
+McEachran,0,45,Chelsea,Midfielder,0.0
+Ramires,23,54,Chelsea,Midfielder,0.508373205742
+Mikel,9,44,Chelsea,Midfielder,0.268421052632
+Piazon,0,50,Chelsea,Midfielder,0.0
+Hazard,67,101,Chelsea,Midfielder,16.6650717703
+Oscar,53,85,Chelsea,Midfielder,10.8014354067
+Schrrle,23,72,Chelsea,Midfielder,0.605980861244
+van Ginkel,0,59,Chelsea,Midfielder,0.00813397129187
+Brown,0,43,Chelsea,Midfielder,0.0
+Borges Da Silva,35,77,Chelsea,Midfielder,0.618181818182
+Matic,39,55,Chelsea,Midfielder,5.36842105263
+Salah,2,60,Chelsea,Midfielder,0.142344497608
+Baker,0,48,Chelsea,Midfielder,0.0
+Swift,0,45,Chelsea,Midfielder,0.00406698564593
+Moses,37,55,Stoke,Midfielder,2.0158492823
+Fbregas,72,97,Chelsea,Midfielder,5.85645933014
+Torres,0,73,Chelsea,Forward,0.361961722488
+Ba,0,70,Chelsea,Forward,0.26028708134
+Lukaku,49,90,Everton,Forward,8.55681818182
+Speroni,37,50,Crystal Palace,Goalkeeper,6.91148325359
+Hennessey,1,44,Crystal Palace,Goalkeeper,0.00717703349282
+Ward,23,48,Crystal Palace,Defender,6.03229665072
+Delaney,17,49,Crystal Palace,Defender,3.70933014354
+McCarthy,0,39,Crystal Palace,Defender,0.00179425837321
+Hunt,0,40,Crystal Palace,Defender,0.0
+Mariappa,10,44,Crystal Palace,Defender,0.177631578947
+Inniss,0,39,Crystal Palace,Defender,0.0
+Dann,31,49,Crystal Palace,Defender,0.195574162679
+Bannan,4,47,Crystal Palace,Midfielder,0.0897129186603
+Bolasie,42,54,Crystal Palace,Midfielder,3.78110047847
+Garvan,0,45,Crystal Palace,Midfielder,0.00538277511962
+Jedinak,44,51,Crystal Palace,Midfielder,6.28349282297
+Williams,2,48,Crystal Palace,Midfielder,0.0233253588517
+Thomas,0,44,Crystal Palace,Midfielder,0.0179425837321
+Puncheon,34,57,Crystal Palace,Midfielder,4.57057416268
+Campaa,0,45,Crystal Palace,Midfielder,0.0233253588517
+O'Keefe,3,45,Crystal Palace,Midfielder,0.0430622009569
+Kb,0,45,Crystal Palace,Midfielder,0.0125598086124
+Gudioura,4,44,Crystal Palace,Midfielder,0.0358851674641
+Boateng,0,43,Crystal Palace,Midfielder,0.0
+Ledley,24,53,Crystal Palace,Midfielder,1.72248803828
+Murray,1,51,Crystal Palace,Forward,0.0502392344498
+Gayle,25,51,Crystal Palace,Forward,0.213516746411
+Dobbie,0,45,Crystal Palace,Forward,0.00358851674641
+Chamakh,22,53,Crystal Palace,Forward,0.23504784689
+Howard,30,53,Everton,Goalkeeper,9.25
+Robles,0,49,Everton,Goalkeeper,0.0142045454545
+Jagielka,50,57,Everton,Defender,6.79545454545
+Hibbert,5,44,Everton,Defender,0.03125
+Baines,69,73,Everton,Defender,9.72159090909
+Distin,9,53,Everton,Defender,1.38352272727
+Duffy,0,40,Everton,Defender,0.0
+Coleman,47,69,Everton,Defender,8.78409090909
+Alcaraz,9,43,Everton,Defender,0.0681818181818
+Stones,13,53,Everton,Defender,0.241477272727
+Garbutt,0,39,Everton,Defender,0.00284090909091
+Browning,2,40,Everton,Defender,0.0113636363636
+Oviedo,1,48,Everton,Defender,0.102272727273
+Osman,25,51,Everton,Midfielder,0.443181818182
+Gibson,4,43,Everton,Midfielder,0.0255681818182
+Barkley,17,68,Everton,Midfielder,0.414772727273
+Pienaar,14,58,Everton,Midfielder,0.275568181818
+Mirallas,21,72,Everton,Midfielder,0.528409090909
+McCarthy,25,48,Everton,Midfielder,5.11931818182
+McGeady,24,55,Everton,Midfielder,0.201704545455
+Ledson,0,44,Everton,Midfielder,0.0
+Barry,23,47,Everton,Midfielder,4.97727272727
+Naismith,42,50,Everton,Forward,4.6875
+Kon,0,54,Everton,Forward,0.0142045454545
+McAleny,0,43,Everton,Forward,0.0
+McGregor,23,48,Hull,Goalkeeper,0.132057416268
+Harper,10,44,Hull,Goalkeeper,0.0588068181818
+Rosenior,8,42,Hull,Defender,0.109360047847
+Chester,27,44,Hull,Defender,0.113486842105
+McShane,9,39,Hull,Defender,0.0433313397129
+Dudgeon,0,40,Hull,Defender,0.0
+Bruce,9,39,Hull,Defender,0.0577751196172
+Figueroa,0,42,Hull,Defender,0.0876943779904
+Davies,25,48,Hull,Defender,4.70230263158
+Quinn,20,45,Hull,Midfielder,0.0619019138756
+Brady,11,46,Hull,Midfielder,0.0753139952153
+Meyler,5,47,Hull,Midfielder,0.0763456937799
+Elmohamady,33,49,Hull,Midfielder,4.71261961722
+Boyd,25,44,Burnley,Midfielder,1.93779904306
+Huddlestone,29,54,Hull,Midfielder,4.69198564593
+Livermore,31,52,Hull,Midfielder,4.74357057416
+Aluko,4,46,Hull,Midfielder,0.0495215311005
+Ince,5,51,Hull,Midfielder,0.0350777511962
+Snodgrass,1,56,Hull,Midfielder,0.110391746411
+Jelavic,33,58,Hull,Forward,0.146501196172
+Proschwitz,0,45,Hull,Forward,0.00206339712919
+Long,27,55,Southampton,Forward,0.501226076555
+Sagbo,0,49,Hull,Forward,0.0619019138756
+Schmeichel,28,45,Leicester,Goalkeeper,1.03827751196
+Hamer,8,40,Leicester,Goalkeeper,0.0296650717703
+Morgan,25,45,Leicester,Defender,0.927033492823
+Wasilewski,8,39,Leicester,Defender,0.0296650717703
+Moore,12,40,Leicester,Defender,0.444976076555
+de Laet,26,45,Leicester,Defender,0.964114832536
+Schlupp,28,45,Leicester,Defender,0.103827751196
+Konchesky,29,45,Leicester,Defender,1.07535885167
+Upson,0,39,Leicester,Defender,0.0
+Drinkwater,17,52,Leicester,Midfielder,0.063038277512
+Hammond,14,45,Leicester,Midfielder,0.0519138755981
+James,13,44,Leicester,Midfielder,0.0482057416268
+Mahrez,26,49,Leicester,Midfielder,0.0964114832536
+Knockaert,5,51,Leicester,Midfielder,0.0185406698565
+King,18,45,Leicester,Midfielder,0.0667464114833
+Taylor-Fletcher,1,43,Leicester,Midfielder,0.00370813397129
+Albrighton,2,43,Leicester,Midfielder,0.0778708133971
+Nugent,22,49,Leicester,Forward,0.815789473684
+Vardy,37,48,Leicester,Forward,0.137200956938
+Wood,9,43,Leicester,Forward,0.0333732057416
+Barmby,0,43,Leicester,Forward,0.0
+Reina,0,55,Liverpool,Goalkeeper,0.0
+Mignolet,34,54,Liverpool,Goalkeeper,8.29306220096
+Kelly,18,44,Crystal Palace,Defender,0.735645933014
+Johnson,11,53,Liverpool,Defender,0.301704545455
+Skrtel,20,58,Liverpool,Defender,7.68436004785
+Agger,0,54,Liverpool,Defender,0.230248205742
+Enrique Sanchez Diaz,2,46,Liverpool,Defender,0.103214712919
+Coates,0,44,Sunderland,Defender,0.0
+Wisdom,36,43,West Brom,Defender,1.70275119617
+Coady,0,40,Liverpool,Defender,0.0
+Tour,1,47,Liverpool,Defender,0.127033492823
+Flanagan,0,48,Liverpool,Defender,0.182610645933
+Sakho,10,52,Liverpool,Defender,0.172024521531
+Ilori,0,40,Liverpool,Defender,0.0
+Smith,0,40,Liverpool,Defender,0.00264653110048
+Gerrard,47,88,Liverpool,Midfielder,10.9131279904
+Lucas,4,43,Liverpool,Midfielder,0.142912679426
+Henderson,39,59,Liverpool,Midfielder,6.34599282297
+Sterling,57,84,Liverpool,Midfielder,7.51046650718
+Allen,18,49,Liverpool,Midfielder,0.217015550239
+Coutinho,20,76,Liverpool,Midfielder,0.407565789474
+Ibe,0,44,Liverpool,Midfielder,0.00264653110048
+Fernandez Saez,0,47,Liverpool,Midfielder,0.0
+Rossiter,0,44,Liverpool,Midfielder,0.0
+Vilaa Teixeira,0,45,Liverpool,Midfielder,0.00264653110048
+Assaidi,8,48,Stoke,Midfielder,0.135645933014
+Can,18,52,Liverpool,Midfielder,0.0952751196172
+Lallana,24,84,Liverpool,Midfielder,1.59811602871
+Sturridge,10,111,Liverpool,Forward,0.574297248804
+Aspas,0,60,Liverpool,Forward,0.0502840909091
+Lambert,19,69,Liverpool,Forward,0.574297248804
+Borini,6,61,Liverpool,Forward,0.280532296651
+Hart,41,60,Man City,Goalkeeper,6.17733253589
+Caballero,2,53,Man City,Goalkeeper,0.0104066985646
+Kolarov,19,57,Man City,Defender,0.400657894737
+Richards,0,49,Man City,Defender,0.0104066985646
+Zabaleta,21,64,Man City,Defender,1.48911483254
+Kompany,31,64,Man City,Defender,5.34479665072
+Clichy,30,53,Man City,Defender,3.30412679426
+Rekik,0,45,Man City,Defender,0.0
+Nastasic,0,51,Man City,Defender,0.111872009569
+Boyata,0,43,Man City,Defender,0.00260167464115
+Demichelis,24,59,Man City,Defender,5.31877990431
+Sagna,5,52,Man City,Defender,0.372039473684
+Rodwell,22,49,Sunderland,Midfielder,0.0503289473684
+Nasri,16,82,Man City,Midfielder,0.486513157895
+Silva,40,89,Man City,Midfielder,6.00986842105
+Tour,40,106,Man City,Midfielder,9.35137559809
+Milner,28,53,Man City,Midfielder,0.320005980861
+Garca Fernndez,0,45,Man City,Midfielder,0.109270334928
+Navas,32,72,Man City,Midfielder,0.437081339713
+Luiz Rosa,21,69,Man City,Midfielder,1.38244617225
+Sinclair,0,52,Man City,Midfielder,0.0364234449761
+Reges,18,49,Man City,Midfielder,0.0936602870813
+Dzeko,29,82,Man City,Forward,0.559360047847
+Agero,81,127,Man City,Forward,8.27332535885
+Negredo,0,90,Man City,Forward,0.283582535885
+Jovetic,29,78,Man City,Forward,0.239354066986
+De Gea,44,54,Man Utd,Goalkeeper,11.8492822967
+Lindegaard,0,49,Man Utd,Goalkeeper,0.0286782296651
+Smalling,4,53,Man Utd,Defender,0.356429425837
+Jones,16,52,Man Utd,Defender,0.483433014354
+Da Silva,18,53,Man Utd,Defender,0.356429425837
+Evra,0,55,Man Utd,Defender,0.581758373206
+Evans,15,52,Man Utd,Defender,0.315460526316
+Varela,0,43,Man Utd,Defender,0.0
+Keane,3,44,Burnley,Defender,0.0107655502392
+Shaw,19,58,Man Utd,Defender,1.6595992823
+Mata,40,84,Man Utd,Midfielder,0.835765550239
+Fellaini,21,63,Man Utd,Midfielder,0.364623205742
+Valencia,24,58,Man Utd,Midfielder,0.491626794258
+Nani,1,70,Man Utd,Midfielder,0.0778409090909
+Anderson,1,48,Man Utd,Midfielder,0.0368720095694
+Carrick,6,54,Man Utd,Midfielder,0.327751196172
+Fletcher,9,45,Man Utd,Midfielder,0.184360047847
+Cleverley,19,52,Aston Villa,Midfielder,1.83881578947
+Young,9,49,Man Utd,Midfielder,0.278588516746
+Powell,2,47,Leicester,Midfielder,0.00741626794258
+Kagawa,0,63,Man Utd,Midfielder,0.196650717703
+Lingard,1,43,Man Utd,Midfielder,0.00819377990431
+Januzaj,14,61,Man Utd,Midfielder,0.450657894737
+Zaha,17,53,Crystal Palace,Midfielder,0.0986842105263
+Herrera,24,72,Man Utd,Midfielder,0.196650717703
+van Persie,34,124,Man Utd,Forward,7.37440191388
+Hernndez,1,59,Man Utd,Forward,0.237619617225
+Rooney,40,103,Man Utd,Forward,12.0616028708
+Welbeck,39,72,Arsenal,Forward,3.61961722488
+Wilson,3,44,Man Utd,Forward,0.0778409090909
+Lawrence,0,44,Leicester,Forward,0.00370813397129
+Krul,46,46,Newcastle,Goalkeeper,7.17912679426
+Elliot,0,40,Newcastle,Goalkeeper,0.00388755980861
+Williamson,24,44,Newcastle,Defender,3.62410287081
+Taylor,14,39,Newcastle,Defender,0.0874700956938
+Coloccini,44,45,Newcastle,Defender,4.30442583732
+Taylor,2,44,Newcastle,Defender,0.00777511961722
+Santon,0,44,Newcastle,Defender,0.145783492823
+Debuchy,10,52,Arsenal,Defender,0.229784688995
+Yanga-Mbiwa,0,44,Newcastle,Defender,0.101076555024
+Haidara,17,43,Newcastle,Defender,0.0777511961722
+Dummett,40,42,Newcastle,Defender,2.254784689
+Satka,0,39,Newcastle,Defender,0.0
+Obertan,20,44,Newcastle,Midfielder,0.0835825358852
+Tiote,9,44,Newcastle,Midfielder,0.16716507177
+Ben Arfa,10,56,Hull,Midfielder,0.10110645933
+Ferguson,0,45,Newcastle,Midfielder,0.0
+Abeid,6,44,Newcastle,Midfielder,0.0233253588517
+Marveaux,0,45,Newcastle,Midfielder,0.025269138756
+Bigirimana,0,44,Newcastle,Midfielder,0.0
+Anita,9,48,Newcastle,Midfielder,0.182715311005
+Sissoko,36,58,Newcastle,Midfielder,6.51824162679
+Colback,28,48,Newcastle,Midfielder,3.76016746411
+Gutirrez,0,43,Newcastle,Midfielder,0.0174940191388
+Gouffran,25,62,Newcastle,Midfielder,4.18779904306
+Ameobi,24,44,Newcastle,Midfielder,0.116626794258
+de Jong,3,68,Newcastle,Midfielder,0.0116626794258
+Ciss,32,57,Newcastle,Forward,0.231309808612
+Campbell,0,44,Newcastle,Forward,0.0
+Armstrong,0,43,Newcastle,Forward,0.00777511961722
+Prez,32,49,Newcastle,Forward,0.124401913876
+Green,34,45,QPR,Goalkeeper,1.27093301435
+Murphy,0,40,QPR,Goalkeeper,0.0
+Dunne,7,43,QPR,Defender,0.0261662679426
+Hill,6,43,QPR,Defender,0.0224282296651
+Onuoha,2,43,QPR,Defender,0.00747607655502
+Suk-Young,11,39,QPR,Defender,0.0411184210526
+Simpson,2,42,Leicester,Defender,0.00741626794258
+Traore,14,44,QPR,Midfielder,0.0523325358852
+Faurlin,3,43,QPR,Midfielder,0.0112141148325
+Henry,14,44,QPR,Midfielder,0.0523325358852
+Barton,11,48,QPR,Midfielder,0.0411184210526
+Jenas,0,44,QPR,Midfielder,0.0
+O'Neil,0,44,QPR,Midfielder,0.0
+Hoilett,11,46,QPR,Midfielder,0.0411184210526
+Wright-Phillips,0,46,QPR,Midfielder,0.0
+Phillips,11,48,QPR,Midfielder,0.0411184210526
+Taarabt,2,53,QPR,Midfielder,0.0504635167464
+Remy,13,72,Chelsea,Forward,0.654784688995
+Zamora,20,43,QPR,Forward,0.0747607655502
+Austin,53,59,QPR,Forward,1.98116028708
+Gazzaniga,0,44,Southampton,Goalkeeper,0.0564294258373
+Boruc,0,48,Southampton,Goalkeeper,0.414922248804
+Hooiveld,0,40,Southampton,Defender,0.00331937799043
+Fonte,59,56,Southampton,Defender,11.8627392344
+Clyne,70,58,Southampton,Defender,8.96650717703
+Yoshida,11,43,Southampton,Defender,0.175927033493
+Lovren,27,52,Liverpool,Defender,5.71082535885
+Chambers,42,49,Arsenal,Defender,2.70454545455
+Stephens,0,39,Southampton,Defender,0.0
+Targett,1,39,Southampton,Defender,0.00663875598086
+Cork,28,44,Southampton,Midfielder,0.361812200957
+Schneiderlin,49,58,Southampton,Midfielder,7.04126794258
+Davis,27,47,Southampton,Midfielder,6.44377990431
+Ward-Prowse,17,48,Southampton,Midfielder,0.3120215311
+Ramrez,5,54,Hull,Midfielder,0.0453947368421
+Wanyama,46,48,Southampton,Midfielder,0.444796650718
+Isgrove,1,42,Southampton,Midfielder,0.00663875598086
+Reed,1,43,Southampton,Midfielder,0.0199162679426
+Tadic,59,79,Southampton,Midfielder,3.91686602871
+Sharp,0,45,Southampton,Forward,0.0
+Rodriguez,0,74,Southampton,Forward,0.504545454545
+Mayuka,2,48,Southampton,Forward,0.0132775119617
+Osvaldo,0,70,Southampton,Forward,0.126136363636
+Gallagher,0,47,Southampton,Forward,0.0829844497608
+Pell,68,84,Southampton,Forward,4.51435406699
+Friedel,0,49,Spurs,Goalkeeper,0.00762559808612
+Lloris,45,57,Spurs,Goalkeeper,8.87171052632
+Dawson,12,46,Hull,Defender,1.1341208134
+Rose,31,50,Spurs,Defender,4.27900717703
+Assou-Ekotto,0,44,Spurs,Defender,0.0
+Kaboul,28,50,Spurs,Defender,2.00807416268
+Walker,0,58,Spurs,Defender,0.261812200957
+Naughton,1,43,Spurs,Defender,0.147428229665
+Vertonghen,20,59,Spurs,Defender,0.332984449761
+Chiriches,4,47,Spurs,Defender,0.195723684211
+Fryers,1,43,Crystal Palace,Defender,0.0322966507177
+Veljkovic,0,39,Spurs,Defender,0.00508373205742
+Fredericks,0,40,Spurs,Defender,0.0
+Dembl,11,53,Spurs,Midfielder,0.221142344498
+Sandro,13,49,QPR,Midfielder,0.10466507177
+Lennon,10,62,Spurs,Midfielder,0.2567284689
+Falque,0,45,Spurs,Midfielder,0.0
+Carroll,8,44,Swansea,Midfielder,0.0688995215311
+Sigurdsson,65,68,Swansea,Midfielder,8.6985645933
+Bezerra Maciel Jnior,2,67,Spurs,Midfielder,0.302482057416
+Townsend,8,62,Spurs,Midfielder,0.175388755981
+Chadli,64,67,Spurs,Midfielder,4.7278708134
+Capoue,22,50,Spurs,Midfielder,1.75388755981
+Lamela,35,77,Spurs,Midfielder,2.13516746411
+Eriksen,58,78,Spurs,Midfielder,7.3038277512
+Bentaleb,6,44,Spurs,Midfielder,0.116925837321
+Winks,0,44,Spurs,Midfielder,0.0
+Pritchard,0,45,Spurs,Midfielder,0.00254186602871
+Holtby,1,58,Spurs,Midfielder,0.175388755981
+Adebayor,37,82,Spurs,Forward,4.93122009569
+Kane,24,49,Spurs,Forward,0.193181818182
+Soldado,9,76,Spurs,Forward,0.299940191388
+Begovic,31,49,Stoke,Goalkeeper,6.73026315789
+Srensen,0,44,Stoke,Goalkeeper,0.0207236842105
+Wilkinson,0,39,Stoke,Defender,0.0113038277512
+Shawcross,36,55,Stoke,Defender,6.39114832536
+Huth,0,48,Stoke,Defender,0.0772428229665
+Wilson,28,45,Stoke,Defender,3.59988038278
+Cameron,6,42,Stoke,Defender,1.22607655502
+Pieters,25,48,Stoke,Defender,3.84479665072
+Muniesa,11,44,Stoke,Defender,0.0960825358852
+Bardsley,28,50,Stoke,Defender,3.39264354067
+Teixeira,0,43,Stoke,Defender,0.0
+Shotton,0,40,Stoke,Defender,0.0
+Ireland,6,48,Stoke,Midfielder,0.133761961722
+Adam,29,57,Stoke,Midfielder,0.314623205742
+Whelan,13,49,Stoke,Midfielder,0.173325358852
+Palacios,0,43,Stoke,Midfielder,0.0320275119617
+Walters,34,52,Stoke,Midfielder,0.284479665072
+N'Zonzi,28,49,Stoke,Midfielder,5.71291866029
+Shea,0,43,Stoke,Midfielder,0.00188397129187
+Ness,0,44,Stoke,Midfielder,0.0
+Ward,0,44,Stoke,Midfielder,0.0
+Sidwell,6,50,Stoke,Midfielder,1.25998803828
+Arnautovic,11,62,Stoke,Midfielder,0.259988038278
+Odemwingie,3,62,Stoke,Midfielder,0.184629186603
+Crouch,33,57,Stoke,Forward,1.33911483254
+Jerome,0,50,Stoke,Forward,0.113038277512
+Diouf,33,62,Stoke,Forward,0.124342105263
+Mannone,29,44,Sunderland,Goalkeeper,2.89473684211
+Pantilimon,14,44,Sunderland,Goalkeeper,0.0523026315789
+O'Shea,33,44,Sunderland,Defender,4.64802631579
+Brown,22,44,Sunderland,Defender,1.17434210526
+Diakit,0,40,Sunderland,Defender,0.0138157894737
+Roberge,0,40,Sunderland,Defender,0.0167763157895
+Jones,6,44,Sunderland,Defender,0.0601973684211
+Johnson,28,61,Sunderland,Midfielder,1.1875
+Cattermole,25,45,Sunderland,Midfielder,1.9375
+Larsson,45,54,Sunderland,Midfielder,2.66776315789
+N'Diaye,0,45,Sunderland,Midfielder,0.0
+Adilson Cabral,0,44,Sunderland,Midfielder,0.00197368421053
+Giaccherini,4,58,Sunderland,Midfielder,0.0809210526316
+Ba,0,45,Sunderland,Midfielder,0.000986842105263
+Mavrias,0,44,Sunderland,Midfielder,0.00493421052632
+Bridcutt,7,43,Sunderland,Midfielder,0.0325657894737
+Agnew,0,44,Sunderland,Midfielder,0.0
+Gmez,25,51,Sunderland,Midfielder,0.0493421052632
+Wickham,29,56,Sunderland,Forward,1.14473684211
+Fletcher,41,53,Sunderland,Forward,1.26315789474
+Mandron,0,44,Sunderland,Forward,0.0
+Moberg-Karlsson,0,45,Sunderland,Forward,0.0
+Altidore,6,52,Sunderland,Forward,0.0690789473684
+Scocco,0,50,Sunderland,Forward,0.00592105263158
+Graham,0,47,Sunderland,Forward,0.0394736842105
+Vorm,0,48,Spurs,Goalkeeper,0.205891148325
+Fabianski,48,51,Swansea,Goalkeeper,4.43540669856
+Williams,41,52,Swansea,Defender,10.8803827751
+Taylor,40,47,Swansea,Defender,4.43540669856
+Tate,0,39,Swansea,Defender,0.0
+Rangel,35,50,Swansea,Defender,7.33014354067
+Chico,0,50,Swansea,Defender,0.426315789474
+Bartley,2,39,Swansea,Defender,0.0301435406699
+Davies,3,44,Spurs,Defender,0.266895933014
+Tiendalli,2,43,Swansea,Defender,0.129186602871
+Amat,14,43,Swansea,Defender,0.232535885167
+Richards,2,40,Swansea,Defender,0.0172248803828
+Kingsley,0,43,Swansea,Defender,0.0
+Routledge,39,55,Swansea,Midfielder,8.44976076555
+Dyer,44,56,Swansea,Midfielder,0.779425837321
+Britton,1,44,Swansea,Midfielder,0.258373205742
+Hernndez,0,60,Swansea,Midfielder,0.331578947368
+Pozuelo Melero,0,45,Swansea,Midfielder,0.167942583732
+Shelvey,23,53,Swansea,Midfielder,8.23444976077
+Michu,0,75,Swansea,Midfielder,0.245454545455
+Caas Ruiz Herrera,0,44,Swansea,Midfielder,0.172248803828
+Lucas,0,45,Swansea,Midfielder,0.0
+Fulton,0,45,Swansea,Midfielder,0.00861244019139
+King,0,44,Swansea,Midfielder,0.0
+Ki,33,49,Swansea,Midfielder,7.45933014354
+Bony,45,82,Swansea,Forward,11.6794258373
+Donnelly,0,44,Swansea,Forward,0.0
+Gomis,18,65,Swansea,Forward,0.155023923445
+Emnes,5,49,Swansea,Forward,0.133492822967
+Myhill,2,40,West Brom,Goalkeeper,0.109629186603
+Foster,39,45,West Brom,Goalkeeper,4.96531100478
+Olsson,8,47,West Brom,Defender,0.228588516746
+McAuley,0,48,West Brom,Defender,0.200598086124
+Dawson,39,46,West Brom,Defender,2.47248803828
+O'Neil,0,39,West Brom,Defender,0.0069976076555
+Daniels,0,39,West Brom,Defender,0.0
+Lescott,25,49,West Brom,Defender,1.95933014354
+Baird,2,40,West Brom,Defender,0.00933014354067
+Pocognoli,26,44,West Brom,Defender,1.21291866029
+Sessegnon,23,57,West Brom,Midfielder,0.319557416268
+Thorne,0,45,West Brom,Midfielder,0.0
+Dorrans,38,50,West Brom,Midfielder,2.65909090909
+Gardner,25,55,West Brom,Midfielder,2.00598086124
+Morrison,28,55,West Brom,Midfielder,3.24222488038
+Mulumbu,11,47,West Brom,Midfielder,1.27057416268
+Brunt,44,54,West Brom,Midfielder,4.94198564593
+Yacob,1,44,West Brom,Midfielder,0.125956937799
+Roofe,0,44,West Brom,Midfielder,0.0
+Anichebe,22,49,West Brom,Forward,0.247248803828
+Berahino,58,60,West Brom,Forward,4.54844497608
+Jskelinen,0,43,West Ham,Goalkeeper,0.252631578947
+San Miguel del Castillo,34,50,West Ham,Goalkeeper,5.33492822967
+Collins,10,45,West Ham,Defender,0.287081339713
+O'Brien,9,43,West Ham,Defender,0.163636363636
+Reid,32,50,West Ham,Defender,3.87559808612
+Demel,5,47,West Ham,Defender,0.35023923445
+Potts,0,39,West Ham,Defender,0.0
+Tomkins,21,49,West Ham,Defender,1.37033492823
+Chambers,0,39,West Ham,Defender,0.0
+Cresswell,36,54,West Ham,Defender,2.06698564593
+Downing,57,60,West Ham,Midfielder,6.71291866029
+Noble,32,54,West Ham,Midfielder,8.42583732057
+Morrison,1,48,West Ham,Midfielder,0.155023923445
+Nolan,10,62,West Ham,Midfielder,0.433492822967
+Diam,44,56,Hull,Midfielder,2.92927631579
+Diarra,0,45,West Ham,Midfielder,0.00861244019139
+Jarvis,2,53,West Ham,Midfielder,0.258373205742
+Kouyate,17,49,West Ham,Midfielder,0.0976076555024
+Poyet,3,43,West Ham,Midfielder,0.0172248803828
+Carroll,3,69,West Ham,Forward,0.166507177033
+Vaz Te,6,43,West Ham,Forward,0.088995215311
+Maiga,0,49,West Ham,Forward,0.103349282297
+Lee,0,44,West Ham,Forward,0.00287081339713
+Cole,20,48,West Ham,Forward,0.295693779904
+Zrate,22,62,West Ham,Forward,0.126315789474
+da Silva Costa,69,111,Chelsea,Forward,5.61244019139
+Jutkiewicz,26,48,Burnley,Forward,0.933014354067
+Markovic,5,72,Liverpool,Midfielder,0.0264653110048
+Cabella,27,72,Newcastle,Midfielder,1.04964114833
+Rivire,15,67,Newcastle,Forward,0.0583133971292
+Janmaat,53,52,Newcastle,Defender,2.06040669856
+Luis,7,54,Chelsea,Defender,0.0569377990431
+Ferdinand,12,42,QPR,Defender,0.125224282297
+Valencia,43,70,West Ham,Forward,0.246889952153
+Ideye,5,56,West Brom,Forward,0.0233253588517
+Ulloa,48,54,Leicester,Forward,1.77990430622
+Krkic,21,49,Stoke,Forward,0.0791267942584
+Caulker,28,47,QPR,Defender,6.32685406699
+Tremmel,0,44,Swansea,Goalkeeper,0.124880382775
+Campbell,37,52,Crystal Palace,Forward,4.26555023923
+Montero,24,57,Swansea,Midfielder,0.206698564593
+Bakayogo,0,40,Leicester,Defender,0.0
+Hutton,24,42,Aston Villa,Defender,1.02631578947
+Zouma,1,47,Chelsea,Defender,0.00813397129187
+van Aanholt,24,44,Sunderland,Defender,0.473684210526
+Drogba,16,62,Chelsea,Forward,0.13014354067
+Ospina,0,48,Arsenal,Goalkeeper,0.0
+Besic,5,46,Everton,Midfielder,0.0284090909091
+Robertson,24,45,Hull,Defender,0.495215311005
+Maguire,0,42,Hull,Defender,0.0
+Hangeland,17,48,Crystal Palace,Defender,0.143540669856
+Dier,34,50,Spurs,Defender,1.72846889952
+Ferreyra,0,57,Newcastle,Forward,0.0
+Manquillo,19,47,Liverpool,Defender,0.100568181818
+Lampard,22,54,Man City,Midfielder,0.338217703349
+Mutch,11,51,QPR,Midfielder,0.27100777512
+Davidson,2,43,West Brom,Defender,0.00933014354067
+Gamboa,10,43,West Brom,Defender,0.0466507177033
+Jones,0,49,Liverpool,Goalkeeper,0.0
+Tader,0,54,Southampton,Midfielder,0.0
+Isla,21,47,QPR,Defender,0.784988038278
+Cissokho,32,45,Aston Villa,Defender,2.15953947368
+Zuculini,0,55,Man City,Midfielder,0.0
+Forster,53,54,Southampton,Goalkeeper,3.51854066986
+Vergini,29,45,Sunderland,Defender,0.809210526316
+Mangala,13,60,Man City,Defender,0.0676435406699
+Aarons,12,50,Newcastle,Midfielder,0.0466507177033
+Binnom-Williams,0,44,Crystal Palace,Defender,0.0
+James,0,43,Man Utd,Defender,0.0
+Blackett,15,42,Man Utd,Defender,0.122906698565
+Atsu,4,57,Everton,Midfielder,0.0227272727273
+Buckley,23,53,Sunderland,Midfielder,0.0453947368421
+Gardos,2,48,Southampton,Defender,0.0132775119617
+Sakho,51,59,West Ham,Forward,0.292822966507
+Coquelin,0,45,Arsenal,Midfielder,0.0
+Martinez,1,45,Arsenal,Goalkeeper,0.00406698564593
+Hopper,0,44,Leicester,Forward,0.0
+Amos,0,45,Man Utd,Goalkeeper,0.0
+Sheehan,0,44,Swansea,Midfielder,0.0
+Burke,0,40,West Ham,Defender,0.0
+Davis,0,45,Southampton,Goalkeeper,0.00663875598086
+Dummigan,0,40,Burnley,Defender,0.0
+Moreno,30,53,Liverpool,Defender,1.58791866029
+Ward,8,45,Burnley,Defender,0.0287081339713
+Snchez,13,44,Aston Villa,Midfielder,0.0555921052632
+Rojo,13,59,Man Utd,Defender,0.106519138756
+Fer,33,55,QPR,Midfielder,3.84090909091
+Fernndez,25,49,Swansea,Defender,0.215311004785
+Vargas,28,64,QPR,Forward,0.10466507177
+Samaras,4,48,West Brom,Forward,0.0186602870813
+Balotelli,20,93,Liverpool,Forward,0.105861244019
+Di Mara,63,100,Man Utd,Midfielder,5.16208133971
+Eto'o,29,56,Everton,Forward,0.451704545455
+Varela,0,60,West Brom,Midfielder,0.0
+Fazio,0,52,Spurs,Defender,0.0
+Cambiasso,18,47,Leicester,Midfielder,0.0667464114833
+Song,15,50,West Ham,Midfielder,0.0861244019139
+Hernndez,27,68,Hull,Forward,0.055711722488
+Stambouli,1,47,Spurs,Midfielder,0.00508373205742
+lvarez,3,57,Sunderland,Midfielder,0.00592105263158
+Blind,23,53,Man Utd,Midfielder,1.88456937799
+McArthur,18,53,Crystal Palace,Midfielder,0.0645933014354
+Amalfitano,27,50,West Ham,Midfielder,0.430622009569
+Kranjcar,17,47,QPR,Midfielder,0.0635466507177
+Alderweireld,35,50,Southampton,Defender,2.3235645933
+Doyle,3,47,Crystal Palace,Forward,0.0107655502392
+Falcao,19,105,Man Utd,Forward,0.155681818182
+Man,29,69,Southampton,Midfielder,0.192523923445
+Blanco,2,54,West Brom,Midfielder,0.00933014354067
+Chalobah,3,45,Burnley,Midfielder,0.0107655502392
+McCarthy,2,40,QPR,Goalkeeper,0.00747607655502
+McQueen,0,45,Southampton,Midfielder,0.0
+Smith,0,40,Leicester,Goalkeeper,0.0
+Daniels,0,40,West Brom,Goalkeeper,0.00233253588517
+Pereira,0,50,Man Utd,Midfielder,0.0
+Johnson,0,45,Crystal Palace,Forward,0.0
+Mason,17,50,Spurs,Midfielder,0.0864234449761
+Pozo,0,50,Man City,Forward,0.0
+McCarthy,0,40,Southampton,Defender,0.0
+McNair,16,44,Man Utd,Defender,0.131100478469
+Thorpe,1,40,Man Utd,Defender,0.00819377990431
+Jakupovic,11,40,Hull,Goalkeeper,0.0247607655502
+Hewitt,0,45,Burnley,Midfielder,0.0
+Shephard,0,40,Swansea,Defender,0.0
+Ajayi,0,40,Arsenal,Defender,0.0
+Solanke,0,50,Chelsea,Forward,0.0
+Watson,0,40,Hull,Goalkeeper,0.0
+Rveillere,10,45,Sunderland,Defender,0.0197368421053
+Vermijl,0,40,Man Utd,Defender,0.0
+Robson,0,40,Sunderland,Defender,0.0
+Barrow,4,45,Swansea,Forward,0.0344497607656
+Lletget,0,45,West Ham,Midfielder,0.0
+Streete,0,40,Newcastle,Defender,0.0
+Ceballos,0,50,Spurs,Midfielder,0.0
+Ball,0,40,Spurs,Defender,0.0

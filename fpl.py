@@ -5,9 +5,9 @@ import random
 from operator import itemgetter
 
 # Configuration values for this GameWeek
-gameweek = 3
-transfersavailable = 1
-currentteamvalue = 998
+gameweek = 13
+transfersavailable = 2
+currentteamvalue = 1000
 
 # Global variables
 
@@ -31,26 +31,26 @@ maxperteam = 3
 
 gamesperseason = 38.0
 teamstrength = {
-'Man City': 1,
-'Chelsea' : 2,
-'Arsenal' : 2,
-'Liverpool' : 3,
-'Man Utd' : 3,
-'Spurs' : 3,
-'Everton' : 3,
-'Stoke' : 6,
-'Newcastle' : 6,
-'Swansea' : 6,
-'Southampton' : 7,
-'West Ham' : 8,
-'West Brom' : 8,
-'Sunderland' : 9,
-'Crystal Palace' : 9,
-'Aston Villa' : 9,
-'Hull' : 10,
-'QPR' : 11,
-'Burnley' : 12,
-'Leicester' : 12 }
+'Man City': 4,
+'Chelsea' : 1,
+'Arsenal' : 8,
+'Liverpool' : 10,
+'Man Utd' : 6,
+'Spurs' : 8,
+'Everton' : 8,
+'Stoke' : 9,
+'Newcastle' : 7,
+'Swansea' : 7,
+'Southampton' : 3,
+'West Ham' : 7,
+'West Brom' : 11,
+'Sunderland' : 11,
+'Crystal Palace' : 12,
+'Aston Villa' : 12,
+'Hull' : 13,
+'QPR' : 15,
+'Burnley' : 14,
+'Leicester' : 13 }
 
 class fpl():
 
@@ -234,6 +234,7 @@ class fpl():
                     for otherplayer in team:
                         if otherplayer['code'] == player['code']:
                             unique = False
+                            break
                     if unique == False:
                         continue
                     # Check the player doesn't take the team over budget
